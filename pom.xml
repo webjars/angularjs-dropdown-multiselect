@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angularjs-dropdown-multiselect</artifactId>
-    <version>1.5.3-SNAPSHOT</version>
+    <version>1.11.8-SNAPSHOT</version>
     <name>angularjs-dropdown-multiselect</name>
     <description>WebJar for angularjs-dropdown-multiselect</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>1.5.2</upstream.version>
+        <upstream.version>1.11.8</upstream.version>
         <upstream.url>https://raw.githubusercontent.com/dotansimha/angularjs-dropdown-multiselect/${upstream.version}</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
         <requirejs>
